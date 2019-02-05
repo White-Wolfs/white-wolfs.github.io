@@ -1,3 +1,40 @@
 body{
     height: 1500px;
 }
+
+/*-------------------------------------------------------------------------------------------------*/
+
+/* Hey, Bro! */
+
+#block{
+    margin-top: 7px;
+    align-items: center;
+    border-radius: 20px;
+    width: 99%;
+    height: 15%;
+    background-color: #555;
+    display: inline-block;
+}
+
+#block-1{
+    border: solid 1px black;
+    margin-top: -25px;
+    align-items: center;
+    border-radius: 20px;
+    width: 55%;
+    height: 15%;
+    background-color: #555;
+    display: inline-block;
+}
+
+#block-2{
+    border: solid 1px black;
+    margin-top: -25px;
+    margin-left: 44%;
+    align-items: center;
+    border-radius: 20px;
+    width: 55%;
+    height: 15%;
+    background-color: #555;
+    display: inline-block;
+}
